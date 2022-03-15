@@ -1,0 +1,46 @@
+name: CelestiamUtilities
+version: 1.0
+author: blixow14
+main: fr.blixow.plugin.Core
+commands:
+  rtp:
+    description: tp random
+  repairall:
+    description: repair les armures
+  ks:
+    description: affiche les statistiques
+  msg:
+    aliases: [t, tell, m, w, emsg, etell]
+    description: message
+  r:
+    aliases: [er, reply]
+    description: message
+  dons:
+    description: dons  
+  trade:
+    description: trade
+  accept:
+    description: accept trade
+  cobble:
+    description: plus de cobble
+  bottlexp:
+    aliases: [bottle]
+    description: xp en bottle
+  lot:
+    description: tirer au joueur au hasard
+  giveall:
+    description: permet de giveall des items
+  reward:
+    description: un reward toutes les 24h
+  site:
+    description: commande du site
+  discord:
+    description: commande du discord
+  poubelle:
+    description: commande poubelle
+  furnace:
+    description: commande furnace
+  poubelle:
+    description: commande de la poubelle
+  chelp:
+    description: descriptif des commandes
